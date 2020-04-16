@@ -1,3 +1,5 @@
+atemp to make clone using HM-10S (CC2540) module
+
 BLEMini
 =======
 
