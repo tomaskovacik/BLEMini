@@ -1,0 +1,3 @@
+attempt to recreate BLEmini using HM-10S module one using CC2540, and so has USB capability
+
+for now, UBL-1.3 forks, but I got lot of errors in linux, on windows drive showed up with empty DEFAULT.CFG file. quick copy of firmware works, but after restart of module, firmware file is not there ...
